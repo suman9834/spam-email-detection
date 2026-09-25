@@ -236,7 +236,7 @@ jupyter notebook
 Open:
 
 ``` text
-Untitled1 (3).ipynb
+spam_Email_dectec.ipynb
 ```
 
 Make sure `spam_ham_dataset.csv` is in the same directory as the

@@ -200,7 +200,7 @@ promotional/spam-like and normal conversational text.
 ## 📁 Project Structure
 
 ``` text
-Spam-Ham-Email-Classification/
+Spam-Email-Detection/
 │
 ├── spam_ham_dataset.csv
 ├── spam_Email_dectec.ipynb.ipynb
@@ -215,8 +215,8 @@ Spam-Ham-Email-Classification/
 ### 1. Clone the repository
 
 ``` bash
-git clone <your-repository-url>
-cd Spam-Ham-Email-Classification
+git clone https://github.com/suman9834/spam-email-detection.git
+cd spam-email-detection
 ```
 
 ### 2. Install the required libraries
